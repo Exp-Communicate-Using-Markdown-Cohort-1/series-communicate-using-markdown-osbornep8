@@ -14,3 +14,9 @@ for doggo in range(all_doggos)
   else:
       print('Who are we kidding, all doggos are cute!')
 ```
+
+### Add a Task List:
+- [x] Create headers
+- [x] Add an Image
+- [x] Add Code Example
+- [ ] Finsih Intro 
